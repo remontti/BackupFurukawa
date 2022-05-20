@@ -1,0 +1,5 @@
+172.18.1.2,usuario_ssh,senha,22,OLT_NOME_1
+172.18.2.2,usuario_ssh,senha,22,OLT_NOME_2
+172.18.3.2,usuario_ssh,senha,22,OLT_NOME_3
+172.18.4.2,usuario_ssh,senha,22,OLT_NOME_4
+172.18.5.2,usuario_ssh,senha,22,OLT_NOME_5
