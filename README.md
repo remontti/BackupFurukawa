@@ -47,3 +47,9 @@ Reinicie o cron:
 # systemctl restart cron.service
 ```
 
+### Rotina de limpeza
+Adicione ao cron ou script o comando para remover os arquivos mais antigos que 60 dias: 
+```
+find /home/backups/oltfurukawa/* -mtime +60 -exec rm {} \;
+```
+
