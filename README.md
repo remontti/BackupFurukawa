@@ -1,6 +1,6 @@
 # BACKUP FURUKAWA - OLT
 
-Backup OLT Furukawa
+Backup OLT Furukawa via SSH
 
 ### Arquivo: backup-fkw.py
 Script em python3, metodo de uso:
